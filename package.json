@@ -1,0 +1,26 @@
+{
+  "name": "raquibdox",
+  "version": "1.1.5",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": "./index.js",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "clipboardy": "^3.0.0",
+    "figlet": "^1.6.0",
+    "fs": "^0.0.1-security",
+    "gradient-string": "^2.0.2",
+    "https": "^1.0.0",
+    "inquirer": "^9.1.5",
+    "nanospinner": "^1.1.0",
+    "node-fetch": "^3.3.1",
+    "open": "^9.1.0"
+  }
+}
